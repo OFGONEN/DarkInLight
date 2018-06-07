@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerLightAOC
+  m_Controller: {fileID: 9100000, guid: b66619f0d020ed343b7be437b20e0889, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e8ef0079dd56a5b40bceebae633ef477, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc5ef8faf0f008d4699e2b3755cab316, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d6c79da3096894146bc523d7fab0e8f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 179d5525d22e97c4abd4d361139c5cad, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23b689758b0735f458f653c9f2d52aed, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 65a1221a31b8e7849a75c32bdada4c1e, type: 2}
